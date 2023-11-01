@@ -1,0 +1,155 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html{
+    display: block;
+}
+body, html{
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    display: block;
+}
+
+#container{
+    min-height: 100vh;
+
+}
+div{
+    display: block;
+}
+
+.q8WwEU{
+    width: 100%;
+    height: 100%;
+}
+
+._3zsGrb{
+    width: 100%;
+    display: flex;
+}
+
+._2-LWwB{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.r-1udh08x{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.r-60vfwk{
+    min-width: 1px;
+}
+
+.r-1iqfa7g{
+    min-height: 1px;
+}
+
+.r-13awgt0{
+    flex-basis: 0%;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.css-1dbjc4n{
+    border: 0px solid black;
+    box-sizing: border-box;
+    align-items: stretch;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+._1ui5b4{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+._2NhoPJ{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+
+._3EOQ5Q{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    justify-content: space-between;
+    box-sizing: border-box;
+    z-index: 99999;
+}
+._3ZqtNW{
+    flex-grow: 1;
+}
+.YLCOuy{
+    text-decoration: none;
+}
+img{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+ul{
+    list-style: none;
+}
+button{
+    border: 0;
+    outline: 0;
+}
+
+._3NorZ0{
+    min-width: 200px;
+    width: 100%;
+}
+
+._2rslOn{
+    display: inline-block;
+    width: 100%;
+    max-width: 725px;
+    position: relative;
+    border-radius: 8px;
+    background-color: #f0f5ff;
+}
+
+._2rslOn ._2alaMB .Pke_EE {
+    border: 0;
+    outline: 0 none;
+    font-size: 17px;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+}
+
+._2msBFL ._38VF5e {
+    display: flex;
+    align-items: center;
+}
+
+._1krdK5, ._3RX0a- {
+    display: flex;
+    align-items: center;
+}
+
+._1krdK5{
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
